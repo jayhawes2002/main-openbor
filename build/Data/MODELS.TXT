@@ -1,4 +1,4 @@
-# List all character models to be loaded.
+ # List all character models to be loaded.
 # Syntax:
 # load		[name]		[path]		// Load on startup
 # know		[name]		[path]		// Load when needed
